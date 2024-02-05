@@ -1,2 +1,2 @@
 # mycoplasmasnp
-Genomic Exploration of Mycoplasma Diversity: A Comprehensive SNP Analysis
+## Genomic Exploration of Mycoplasma Diversity: A Comprehensive SNP Analysis
