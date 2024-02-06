@@ -19,7 +19,7 @@ Functional validation: Validate the functional relevance of prioritized SNPs usi
 
 
 ### Methodology:
-(https://github.com/omicscodeathon/mycoplasmasnp/blob/main/workflow/workflow.pdf)
+(https://workflow\Workflow_CAPN10snp.png)
 
 Data retrieval: Retrieve SNP data within the CAPN10 gene region from public genomic databases.
 
