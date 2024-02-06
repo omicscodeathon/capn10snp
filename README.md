@@ -39,7 +39,7 @@ Assessment of functional significance for prioritized SNPs.
 
 Identification of haplotype blocks and linkage disequilibrium patterns within CAPN10.
 
-Association analysis results linking specific SNPs to variou disorders.
+Association analysis results linking specific SNPs to various disorders.
 
 Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.
 
