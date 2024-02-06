@@ -19,7 +19,9 @@ Functional validation: Validate the functional relevance of prioritized SNPs usi
 
 
 ### Methodology:
-(https://workflow\Workflow_CAPN10snp.png)
+![image](https:workflow\Workflow_CAPN10snp.png?raw=true)
+
+Figure 1. Workflow
 
 Data retrieval: Retrieve SNP data within the CAPN10 gene region from public genomic databases.
 
