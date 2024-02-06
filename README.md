@@ -12,6 +12,8 @@ Functional annotation: Predict the functional significance of identified SNPs us
 Linkage disequilibrium analysis: Investigate the patterns of linkage disequilibrium and identify haplotype blocks within the CAPN10 gene region to understand the genetic architecture.
 Association analysis: Assess the association of identified SNPs with T2DM susceptibility using available genetic datasets and perform statistical analyses to determine their significance.
 Functional validation: Validate the functional relevance of prioritized SNPs using in vitro assays or functional genomics approaches to elucidate their role in T2DM pathogenesis.
+
+
 Methodology:
 (https://github.com/omicscodeathon/mycoplasmasnp/blob/main/workflow/workflow.pdf)
 Data retrieval: Retrieve SNP data within the CAPN10 gene region from public genomic databases.
