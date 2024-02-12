@@ -20,7 +20,7 @@ Functional validation: Validate the functional relevance of prioritized SNPs usi
 
 
 ### Methodology:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/workflow/Workflow_CAPN10snp.jpg)
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/Workflow_CAPN10snp.jpg)
 
 Figure 1. Workflow
 
