@@ -10,6 +10,7 @@ This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to 
 
 ### General Objectives:
 Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as dbSNP and 1000 Genomes Project.
+
 Functional annotation: Predict the functional significance of identified SNPs using bioinformatics tools such as SIFT and PolyPhen-2 to assess their potential impact on protein structure and function.
 
 Linkage disequilibrium analysis: Investigate the patterns of linkage disequilibrium and identify haplotype blocks within the CAPN10 gene region to understand the genetic architecture.
@@ -33,7 +34,7 @@ Linkage disequilibrium analysis: Analyze linkage disequilibrium patterns and ide
 Association analysis: Conduct association analysis using available genetic datasets and perform statistical tests.
 
 Functional validation: Validate the functional relevance of prioritized SNPs using experimental assays or functional genomics approaches.
-Expected Outcomes:
+
 
 ### Catalog of identified SNPs within the CAPN10 gene.
 Assessment of functional significance for prioritized SNPs.
@@ -43,4 +44,6 @@ Identification of haplotype blocks and linkage disequilibrium patterns within CA
 Association analysis results linking specific SNPs to various disorders.
 
 Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.
+
+### Expected Outcomes:
 
