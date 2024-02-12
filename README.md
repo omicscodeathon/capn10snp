@@ -19,7 +19,7 @@ Functional validation: Validate the functional relevance of prioritized SNPs usi
 
 
 ### Methodology:
-![image](https:workflow\Workflow_CAPN10snp.png?raw=true)
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/workflow/Workflow_CAPN10snp.jpg)
 
 Figure 1. Workflow
 
@@ -39,7 +39,7 @@ Assessment of functional significance for prioritized SNPs.
 
 Identification of haplotype blocks and linkage disequilibrium patterns within CAPN10.
 
-Association analysis results linking specific SNPs to variou disorders.
+Association analysis results linking specific SNPs to various disorders.
 
 Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.
 
