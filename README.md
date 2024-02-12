@@ -3,8 +3,7 @@
 ## Uncovering Genetic Variations in the CAPN10 Gene: A Comprehensive SNP Analysis
 
 ### Introduction:
-The Calpain 10 (CAPN10) gene has emerged as a key candidate in the etiology of type 2 diabetes mellitus (T2DM). Understanding the role of genetic variations within CAPN10 is crucial for elucidating its contribution to T2DM susceptibility. This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to identify potential functional variants associated with T2DM.
-
+The CAPN10 gene, linked to susceptibility to type 2 diabetes mellitus (T2DM), has received significant attention for its involvement in regulating glucose metabolism. Here, we present an ongoing computational analysis focused on identifying potentially functional single nucleotide polymorphisms (SNPs) within CAPN10. Our study aims to distinguish harmful non-synonymous SNPs (nsSNPs) from neutral variants, utilizing various sequence and structure-based bioinformatic tools. Through a multimodal approach, we meticulously explore a range of nsSNPs, assessing their potential to impact protein structure and function. This comprehensive analysis marks a foundational step towards understanding the functional consequences of genetic variation in CAPN10, with implications for future studies in T2DM and cancer research, including personalized medicine initiatives.
 ### Objectives:
 
 Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as dbSNP and 1000 Genomes Project.
