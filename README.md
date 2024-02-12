@@ -4,10 +4,12 @@
 
 ### Introduction:
 The CAPN10 gene, linked to susceptibility to type 2 diabetes mellitus (T2DM), has received significant attention for its involvement in regulating glucose metabolism. Here, we present an ongoing computational analysis focused on identifying potentially functional single nucleotide polymorphisms (SNPs) within CAPN10. Our study aims to distinguish harmful non-synonymous SNPs (nsSNPs) from neutral variants, utilizing various sequence and structure-based bioinformatic tools. Through a multimodal approach, we meticulously explore a range of nsSNPs, assessing their potential to impact protein structure and function. This comprehensive analysis marks a foundational step towards understanding the functional consequences of genetic variation in CAPN10, with implications for future studies in T2DM and cancer research, including personalized medicine initiatives.
-### Objectives:
 
+### Aim
+This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to identify potential functional variants associated with T2DM.
+
+### General Objectives:
 Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as dbSNP and 1000 Genomes Project.
-
 Functional annotation: Predict the functional significance of identified SNPs using bioinformatics tools such as SIFT and PolyPhen-2 to assess their potential impact on protein structure and function.
 
 Linkage disequilibrium analysis: Investigate the patterns of linkage disequilibrium and identify haplotype blocks within the CAPN10 gene region to understand the genetic architecture.
