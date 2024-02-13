@@ -46,4 +46,13 @@ Association analysis results linking specific SNPs to various disorders.
 Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.
 
 ### Expected Outcomes:
+1.Identification of non-synonymous SNPs (nsSNPs), exploring the possibility that they may alter the structure and function of proteins.
+2.Identification of Asssociated disease with human CAPN10 gene.
+
+###Team Members
+1. Shivani Pawar
+2. Nigel Dolling
+3. Musa Muhammad Shamsuddeen
+4. Gershom Olajire
+5. Emmanuel Baluku
 
