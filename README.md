@@ -49,7 +49,7 @@ Functional validation of selected SNPs to elucidate their role in T2DM pathogene
 1.Identification of non-synonymous SNPs (nsSNPs), exploring the possibility that they may alter the structure and function of proteins.
 2.Identification of Asssociated disease with human CAPN10 gene.
 
-###Team Members
+### Team Members: 
 1. Shivani Pawar
 2. Nigel Dolling
 3. Musa Muhammad Shamsuddeen
