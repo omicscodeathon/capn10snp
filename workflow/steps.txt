@@ -1,5 +1,14 @@
-Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-. Pull down the reads
+Retrieval of SNPs - NCBI/dbSNP
+Identification and Prediction of effects of deleterious SNPs SIFT/PolyPhen/PANTHER
+Prediction of protein stability change
+Estimation of conservation profile
+Prediction of solvent Accessibility
+Analysis of effect of nsSNP
+Prediction of Protein-Protein Interaction
+Prediction and Evaluation of 3D structure
+3D Modelling of mutated protein
+Identification of cancer Association with NS-SNP
+Analysis of gene expression
 .
 .
 .
