@@ -1,6 +1,6 @@
 Retrieval of SNPs - NCBI/dbSNP
-Identification and Prediction of effects of deleterious SNPs - SIFT/PolyPhen/AlignGVD/PANTHER
-Prediction of protein stability change
+Identification and Prediction of effects of deleterious SNPs - SIFT/PolyPhen/AlignGVGD/PANTHER
+Prediction of protein stability change - 
 Estimation of conservation profile
 Prediction of solvent Accessibility
 Analysis of effect of nsSNP
