@@ -28,10 +28,12 @@ Figure 1. Workflow
 Data retrieval: SNP data within the CAPN10 gene region were retrieved from NCBI and dbSNP. Protein sequences from these genes were obtained and used for the second stage of analysis.
 
 Functional annotation: The functional impact of the identified SNPs were predicted using a series of bioinformatics tools for a more comprehensive analysis. 
-![image]()
+
+![image](figures/SIFT_analysis.jpg)
 
 Figure 2. SIFT analysis
-![image]()
+
+![image](figures/PANTHER_analysis.jpg)
 
 Figure 3. PANTHER analysis
 
