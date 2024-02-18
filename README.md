@@ -25,9 +25,19 @@ Functional validation: Validate the functional relevance of prioritized SNPs usi
 
 Figure 1. Workflow
 
-Data retrieval: Retrieve SNP data within the CAPN10 gene region from public genomic databases.
+Data retrieval: SNP data within the CAPN10 gene region were retrieved from NCBI and dbSNP. Protein sequences from these genes were obtained and used for the second stage of analysis.
 
-Functional annotation: Predict the functional impact of identified SNPs using bioinformatics tools.
+Functional annotation: The functional impact of the identified SNPs were predicted using a series of bioinformatics tools for a more comprehensive analysis. 
+
+![image](figures/SIFT_analysis.jpg)
+
+Figure 2. SIFT analysis
+
+![image](figures/PANTHER_analysis.jpg)
+
+Figure 3. PANTHER analysis
+
+
 
 Linkage disequilibrium analysis: Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
