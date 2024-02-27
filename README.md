@@ -37,7 +37,9 @@ Figure 2. SIFT analysis
 
 Figure 3. PANTHER analysis
 
+![image](figures/HOPE_Mutations.png)
 
+Figure 5. HOPE analysis showing structural changes in the amino acid sequences
 
 Linkage disequilibrium analysis: Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
