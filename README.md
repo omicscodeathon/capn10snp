@@ -57,7 +57,7 @@ Figure 5. Free Energy Stability
 
 ![image](figures/protein-protein_interaction.png)
 
-Figure 6. Protein-Protein Interaction
+Figure 6. Protein-Protein interactions of CAPN10 with 10 proteins based on experimental data and curated databases.
 
 
 ![image](figures/HOPE_Mutations.png)
