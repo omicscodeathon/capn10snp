@@ -1,30 +1,18 @@
-SNP	substitution	PANTHER HMM Name	PANTHER HMM Accession	preservation time	message	Pdel
-rs3792269	P200P	CALPAIN	PTHR10183	176	probably benign	0.27
-rs3792269	P44P	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs7607759	T504A	CALPAIN	PTHR10183	30	probably benign	0.13
-rs3749166	A465A	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs3749166	A620A	CALPAIN	PTHR10183	176	probably benign	0.27
-rs3749166	A86A	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs2975766	I511V	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs2975766	I132V	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs2975766	I666V	CALPAIN	PTHR10183	30	probably benign	0.13
-rs2975766	P650P	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs3792268	P200T	CALPAIN	PTHR10183	176	probably benign	0.27
-rs3792268	P44T	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs114120181	V582A	CALPAIN	PTHR10183	176	probably benign	0.27
-rs114120181	V427A	CALPAIN	PTHR10183	456	probably damaging	0.57
-rs114120181	V48A	CALPAIN	PTHR10183		Not scored: Invalid substitution	-
-rs114535069	L474M	CALPAIN	PTHR10183	455	probably damaging	0.57
-rs138005500	L34V	CALPAIN	PTHR10183	456	probably damaging	0.57
-rs148303768	A477T	CALPAIN	PTHR10183	91	probably benign	0.19
-rs150113284	E276E	CALPAIN	PTHR10183	361	possibly damaging	0.5
-rs184439941	E460K	CALPAIN	PTHR10183	176	probably benign	0.27
-						
-						
-						
-						
-						
-						
+substitution	PANTHER HMM Name	PANTHER HMM Accession	preservation time	message	Pdel
+T504A	CALPAIN	PTHR10183	30	probably benign	0.13
+A511V	CALPAIN	PTHR10183	324	possibly damaging	0.5
+A132V	CALPAIN	PTHR10183	176	probably benign	0.27
+I666V	CALPAIN	PTHR10183	30	probably benign	0.13
+P200T	CALPAIN	PTHR10183	176	probably benign	0.27
+R44T	CALPAIN	PTHR10183	176	probably benign	0.27
+V582A	CALPAIN	PTHR10183	176	probably benign	0.27
+V427A	CALPAIN	PTHR10183	456	probably damaging	0.57
+L34V	CALPAIN	PTHR10183	456	probably damaging	0.57
+A477T	CALPAIN	PTHR10183	91	probably benign	0.19
+E460K	CALPAIN	PTHR10183	176	probably benign	0.27
+L474M	CALPAIN	PTHR10183	455	probably damaging	0.57
+
+
 						
 						
 						
