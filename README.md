@@ -62,7 +62,7 @@ Figure 6. Protein-Protein Interaction
 
 ![image](figures/HOPE_Mutations.png)
 
-Figure 7. HOPE analysis showing structural changes in the amino acid sequences
+Figure 7. HOPE analysis showing structural changes in the amino acids
 
 
 
