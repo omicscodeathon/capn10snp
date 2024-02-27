@@ -29,6 +29,13 @@ Data retrieval: SNP data within the CAPN10 gene region were retrieved from NCBI 
 
 Functional annotation: The functional impact of the identified SNPs were predicted using a series of bioinformatics tools for a more comprehensive analysis. 
 
+
+### Results
+
+A total of  6922 SNPs of the human CAPN10 gene were retrieved from the dbSNP database (dbSNP NCBI: https://www.ncbi.nlm.nih.gov/snp). Out of which 662 were missense (nsSNP), 669 were non-coding transcripts, 349 were synonymous, 4561 were intronic, only 1 initiator codon variant, 3 inframe insertions, 2 inframe indels, and 2 inframe deletions. For the current study, only nsSNPs (missense) of CAPN10 were selected.
+The Screening of functional Single nucleotide variants in CAPN10 was performed using a series of bioinformatics tools using the CAPN10 gene obtained from dbSNP. Different input queries (protein change, amino acid sequences, etc) were subjected to in-silico analysis through a variety of tools, which include SIFT, SNAP2, Align GVGD, Polyphen-2, PROVEAN, and PANTHER. The following results were obtained:
+
+
 ![image](figures/SIFT_analysis.jpg)
 
 Figure 2. SIFT analysis
@@ -47,21 +54,25 @@ Figure 4. PANTHER analysis
 
 Figure 5. Free Energy Stability
 
+![image](figures/protein-protein_interaction.png)
+
+Figure 6. Protein-Protein Interaction
+
 
 ![image](figures/HOPE_Mutations.png)
 
-Figure 6. HOPE analysis showing structural changes in the amino acid sequences
-
-![image]()
-Figure 5. Protein-Protein Interaction
+Figure 7. HOPE analysis showing structural changes in the amino acid sequences
 
 
 
-Linkage disequilibrium analysis: Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
+### Linkage disequilibrium analysis: 
+Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
-Association analysis: Conduct association analysis using available genetic datasets and perform statistical tests.
+### Association analysis: 
+Conduct association analysis using available genetic datasets and perform statistical tests.
 
-Functional validation: Validate the functional relevance of prioritized SNPs using experimental assays or functional genomics approaches.
+### Functional validation: 
+Validate the functional relevance of prioritized SNPs using experimental assays or functional genomics approaches.
 
 
 ### Catalog of identified SNPs within the CAPN10 gene.
