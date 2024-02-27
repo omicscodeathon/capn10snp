@@ -33,7 +33,7 @@ Functional annotation: The functional impact of the identified SNPs were predict
 
 Figure 2. SIFT analysis
 
-![image](figures/PANTHER_analysis.jpg)
+![image](figures/panther_analysis.png)
 
 Figure 3. PANTHER analysis
 
