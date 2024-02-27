@@ -33,13 +33,28 @@ Functional annotation: The functional impact of the identified SNPs were predict
 
 Figure 2. SIFT analysis
 
+
+![image](figures/align_GVGD.png)
+
+Figure 3. Align GVGD analysis
+
+
 ![image](figures/panther_analysis.png)
 
-Figure 3. PANTHER analysis
+Figure 4. PANTHER analysis
+
+![image]()
+Figure 5. Free Energy Stability
+
 
 ![image](figures/HOPE_Mutations.png)
 
-Figure 5. HOPE analysis showing structural changes in the amino acid sequences
+Figure 6. HOPE analysis showing structural changes in the amino acid sequences
+
+![image]()
+Figure 5. Protein-Protein Interaction
+
+
 
 Linkage disequilibrium analysis: Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
