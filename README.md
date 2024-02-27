@@ -43,7 +43,8 @@ Figure 3. Align GVGD analysis
 
 Figure 4. PANTHER analysis
 
-![image]()
+![image](figures/free_energy_stability_prediction.png)
+
 Figure 5. Free Energy Stability
 
 
