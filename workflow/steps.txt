@@ -1,11 +1,11 @@
 Retrieval of SNPs - NCBI/dbSNP
 Identification and Prediction of effects of deleterious SNPs - SIFT/PolyPhen/AlignGVGD/PANTHER
 Prediction of protein stability change - I-Mutant.
-Estimation of conservation profile
-Prediction of solvent Accessibility
-Analysis of effect of nsSNP
-Prediction of Protein-Protein Interaction
-Prediction and Evaluation of 3D structure
+Estimation of conservation profile- ConSurf
+Prediction of solvent Accessibility- NetsurfP-2.0
+Analysis of effect of nsSNP-HOPE
+Prediction of Protein-Protein Interaction-STRING
+Prediction and Evaluation of 3D structure-I-TASSER,Swissmodel,AlFaFold,procheck.
 3D Modelling of mutated protein
 Identification of cancer Association with NS-SNP
 Analysis of gene expression
