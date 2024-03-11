@@ -64,6 +64,19 @@ Figure 6. Protein-Protein interactions of CAPN10 with 10 proteins based on exper
 
 Figure 7. HOPE analysis showing structural changes in the amino acids
 
+![image](figures\3D_3.png)
+
+Figure 8. The 3D model of the CAPN10 protein using AlphaFold showing a 100% coverage and identity. 
+
+![image](figures\3D_3.png)
+
+Figure 9. Ramachandran plot
+
+![image](figures\3D_1.png)
+
+Structural assessments using QMEAN, ProSA, Procheck and MolProbity were also carried out. The Ramachandran plot shows 93.8% of the amino acids in the favored region. MolProbity score of 1.14 was recorded for the model. ProSA reveals an overall model quality Z-score of -9.28 showing that the model is within the range of scores typically found for native proteins of similar size.
+
+
 
 
 ### Linkage disequilibrium analysis: 
