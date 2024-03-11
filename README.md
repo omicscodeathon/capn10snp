@@ -66,7 +66,7 @@ Figure 7. HOPE analysis showing structural changes in the amino acids
 
 ![image](figures\3D_3.png)
 
-Figure 8. The 3D model of the CAPN10 protein using AlphaFold showing a 100% coverage and identity. 
+Figure 8. The 3D model of the CAPN10 protein using AlphaFold. 
 
 ![image](figures\3D_3.png)
 
