@@ -110,7 +110,6 @@ Functional validation of selected SNPs to elucidate their role in T2DM pathogene
 2. Nigel Dolling
 3. Musa Muhammad Shamsuddeen
 4. Gershom Olajire
-5. Emmanuel Baluku
-6. Purity Njenga
+5. Purity Njenga
 
 
