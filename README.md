@@ -3,7 +3,7 @@
 ## Uncovering Genetic Variations in the CAPN10 Gene: A Comprehensive SNP Analysis
 
 ## Table of Contents
-1. [Introduction](###Introduction)
+1. [Introduction]("Introduction")
 2. [Aim](###Aim)
 3. [General Objectives](###General-Objectives)
 4. [Methodology](###Methodology)
