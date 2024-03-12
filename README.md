@@ -90,7 +90,7 @@ Structural assessments using QMEAN, ProSA, Procheck and MolProbity were also car
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model3.gif)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model4.gif)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model4.gif)
-
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model5.gif)
 
 
 ### Linkage disequilibrium analysis: 
