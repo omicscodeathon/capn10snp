@@ -74,6 +74,8 @@ Figure 9. Ramachandran plot
 
 
 Structural assessments using QMEAN, ProSA, Procheck and MolProbity were also carried out. The Ramachandran plot shows 93.8% of the amino acids in the favored region. MolProbity score of 1.14 was recorded for the model. ProSA reveals an overall model quality Z-score of -9.28 showing that the model is within the range of scores typically found for native proteins of similar size.
+### Prediction and Assessment of Modeled Structure
+
 
 
 
