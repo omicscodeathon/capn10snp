@@ -84,13 +84,25 @@ Figure 9. Ramachandran plot
 
 Structural assessments using QMEAN, ProSA, Procheck and MolProbity were also carried out. The Ramachandran plot shows 93.8% of the amino acids in the favored region. MolProbity score of 1.14 was recorded for the model. ProSA reveals an overall model quality Z-score of -9.28 showing that the model is within the range of scores typically found for native proteins of similar size.
 ### Prediction and Assessment of Modeled Structure
+#### I-TASSER 3d Structure Prediction
 
-![image](output/model4.gif)
+Model 1
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model1.gif)
+
+Model 2
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model2.gif)
+
+Model 3
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model3.gif)
+
+Model 4
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model4.gif)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model4.gif)
+
+Model 5
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model5.gif)
+
+The 5 models predicted by I-TASSER, with the C-score=-0.86 for Model 1, C-score = -1.00 for Model 2, C-score = -0.61 for Model 3, C-score = -3.14 for Model 4, C-score = -3.64 for Model 5 each. The confidence of each model is quantitatively measured by a C-score that is calculated based on the significance of threading template alignments and the convergence parameters of the structure assembly simulations. C-score is typically in the range of [-5, 2], where a C-score of a higher value signifies a model with a higher confidence and vice-versa(ref)
+7. Three-dimensional modeling of the mutated protein
 
 
 ### Linkage disequilibrium analysis: 
