@@ -86,6 +86,7 @@ Structural assessments using QMEAN, ProSA, Procheck and MolProbity were also car
 ### Prediction and Assessment of Modeled Structure
 
 ![image](output/model4.gif)
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/model2.gif)
 
 
 
