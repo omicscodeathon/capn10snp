@@ -6,10 +6,11 @@ Prediction of solvent Accessibility- NetsurfP-2.0
 Analysis of effect of nsSNP-HOPE
 Prediction of Protein-Protein Interaction-STRING
 Prediction and Evaluation of 3D structure-I-TASSER,Swissmodel,AlFaFold,procheck.
-3D Modelling of mutated protein
-Identification of cancer Association with NS-SNP
+3D Modelling of mutated protein-SwissModel,TM-align.
+Analysis of co-relation of gene expression and mutation-muTarget.
+Identification of cancer Association with NS-SNP-canSAR black.
 Analysis of gene expression
-Analysis of co-relation of gene expression and mutation
+
 .
 .
 .
