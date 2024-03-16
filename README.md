@@ -6,24 +6,26 @@
 3. [General Objectives]("General-Objectives")
 4. [Methodology]("Methodology")
 5. [Results]("Results")
+6. [Expected Outcomes]("Expected_Outcomes")
+7. [Team Members]("Team_Members")
 
 
 ### Introduction:
 The CAPN10 gene, linked to susceptibility to type 2 diabetes mellitus (T2DM), has received significant attention for its involvement in regulating glucose metabolism. Here, we present an ongoing computational analysis focused on identifying potentially functional single nucleotide polymorphisms (SNPs) within CAPN10. Our study aims to distinguish harmful non-synonymous SNPs (nsSNPs) from neutral variants, utilizing various sequence and structure-based bioinformatic tools. Through a multimodal approach, we meticulously explore a range of nsSNPs, assessing their potential to impact protein structure and function. This comprehensive analysis marks a foundational step towards understanding the functional consequences of genetic variation in CAPN10, with implications for future studies in T2DM and cancer research, including personalized medicine initiatives.
 
-<h2 id="Aim">Aim </h2>
-<p> This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to identify potential functional variants associated with T2DM.</p>
+### Aim
+This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to identify potential functional variants associated with T2DM.
 
 ### General Objectives:
-Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as dbSNP and 1000 Genomes Project.
+Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as NCBI dbSNP.
 
 Functional annotation: Predict the functional significance of identified SNPs using bioinformatics tools such as SIFT and PolyPhen-2 to assess their potential impact on protein structure and function.
 
 Linkage disequilibrium analysis: Investigate the patterns of linkage disequilibrium and identify haplotype blocks within the CAPN10 gene region to understand the genetic architecture.
 
-Association analysis: Assess the association of identified SNPs with T2DM susceptibility using available genetic datasets and perform statistical analyses to determine their significance.
+Association analysis: Assess the association of identified SNPs with T2DM and cancer susceptibility using available genetic datasets and perform statistical analyses to determine their significance.
 
-Functional validation: Validate the functional relevance of prioritized SNPs using in vitro assays or functional genomics approaches to elucidate their role in T2DM pathogenesis.
+Functional validation: Validate the functional relevance of prioritized SNPs using in vitro assays or functional genomics approaches to elucidate their role in T2DM pathogenesis and carcinogenesis.
 
 
 ### Methodology:
@@ -39,8 +41,7 @@ Functional annotation: The functional impact of the identified SNPs were predict
 ### Results
 
 A total of 6922 SNPs of the human CAPN10 gene were retrieved from the dbSNP database (dbSNP NCBI: https://www.ncbi.nlm.nih.gov/snp). Out of which 662 were missense (nsSNP), 669 were non-coding transcripts, 349 were synonymous, 4561 were intronic, only 1 initiator codon variant, 3 inframe insertions, 2 inframe indels, and 2 inframe deletions. For the current study, only nsSNPs (missense) of CAPN10 were selected.
-The Screening of functional Single nucleotide variants in CAPN10 was performed using a series of bioinformatics tools using the CAPN10 gene obtained from dbSNP. Different input queries (protein change, amino acid sequences, etc) were subjected to in-silico analysis through a variety of tools, which include SIFT, SNAP2, Align GVGD, Polyphen-2, PROVEAN, and PANTHER. The following figures represent the output that were obtained.
-
+The Screening of functional Single nucleotide variants in CAPN10 was performed using a series of bioinformatics tools using the CAPN10 gene obtained from dbSNP. Different input queries (protein change, amino acid sequences, etc) were subjected to in-silico analysis through a variety of tools, which include SIFT, Align GVGD, Polyphen-2, and PANTHER. The following figures represent the output that were obtained.
 
 
 ![image](figures/SIFT_analysis.jpg)
@@ -102,7 +103,7 @@ The 5 models predicted by I-TASSER, with the C-score=-0.86 for Model 1, C-score 
 7. Three-dimensional modeling of the mutated protein
 
 
-### Linkage disequilibrium analysis: 
+<!--### Linkage disequilibrium analysis: 
 Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
 ### Association analysis: 
@@ -119,7 +120,7 @@ Identification of haplotype blocks and linkage disequilibrium patterns within CA
 
 Association analysis results linking specific SNPs to various disorders.
 
-Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.
+Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.-->
 
 ### Expected Outcomes:
 1.Identification of non-synonymous SNPs (nsSNPs), exploring the possibility that they may alter the structure and function of proteins.
