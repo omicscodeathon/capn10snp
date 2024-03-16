@@ -1,4 +1,6 @@
-## CAPN10snp: Uncovering Genetic Variations in the CAPN10 Gene: A Comprehensive SNP Analysis
+## CAPN10snp
+
+## Uncovering Genetic Variations in the CAPN10 Gene: A Comprehensive SNP Analysis
 
 ## Table of Contents
 1. [Introduction]("Introduction")
