@@ -108,8 +108,9 @@ The 5 models predicted by I-TASSER, with the C-score=-0.86 for Model 1, C-score 
 <!--### Linkage disequilibrium analysis: 
 Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
 
-### Association analysis: 
-Conduct association analysis using available genetic datasets and perform statistical tests.
+###  gene expression Association analysis: 
+association of CAPN-10 with various genes and theor expression in various diseases
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/gh.png)
 
 ### Functional validation: 
 Validate the functional relevance of prioritized SNPs using experimental assays or functional genomics approaches.
