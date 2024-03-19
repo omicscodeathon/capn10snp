@@ -73,11 +73,11 @@ Figure 6. Protein-Protein interactions of CAPN10 with 10 proteins based on exper
 
 Figure 7. HOPE analysis showing structural changes in the amino acids
 
-![image](figures\3D_3.png)
+![image](figures/3D_3.png)
 
 Figure 8. The 3D model of the CAPN10 protein using AlphaFold. 
 
-![image](figures\3D_1.png)
+![image](figures/3D_1.png)
 
 Figure 9. Ramachandran plot
 
