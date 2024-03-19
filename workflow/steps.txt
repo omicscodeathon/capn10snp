@@ -9,7 +9,8 @@ Prediction and Evaluation of 3D structure-I-TASSER,Swissmodel,AlFaFold,procheck.
 3D Modelling of mutated protein-SwissModel,TM-align.
 Analysis of co-relation of gene expression and mutation-muTarget.
 Identification of cancer Association with NS-SNP-canSAR black.
-Analysis of gene expression
+Analysis of gene expression-GEPIA
+Identification of T2DM Association with nsSNPs:OMIM,uniprot-natural variants,I-muatant.
 
 .
 .
