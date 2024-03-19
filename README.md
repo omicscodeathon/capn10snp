@@ -107,6 +107,7 @@ gene expression Association analysis:
 association of CAPN-10 with various genes and theor expression in various diseases
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/gh.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/qw.png)
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/vb.png)
 
 <!--### Linkage disequilibrium analysis: 
 Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
