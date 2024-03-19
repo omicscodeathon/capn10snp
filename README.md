@@ -113,6 +113,7 @@ gene expression Association analysis:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/vb.png)
 # Cancer Association analysis using canSARblack:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar1.png)
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar2.png)
 
 <!--### Linkage disequilibrium analysis: 
 Analyze linkage disequilibrium patterns and identify haplotype blocks using statistical methods.
