@@ -107,11 +107,12 @@ Model 5
 The 5 models predicted by I-TASSER, with the C-score=-0.86 for Model 1, C-score = -1.00 for Model 2, C-score = -0.61 for Model 3, C-score = -3.14 for Model 4, C-score = -3.64 for Model 5 each. The confidence of each model is quantitatively measured by a C-score that is calculated based on the significance of threading template alignments and the convergence parameters of the structure assembly simulations. C-score is typically in the range of [-5, 2], where a C-score of a higher value signifies a model with a higher confidence and vice-versa(ref)
 7. Three-dimensional modeling of the mutated protein
 gene expression Association analysis: 
-# association of CAPN-10 with various genes and theor expression in various diseases
+### Association of CAPN-10 With Various Genes and their Expression in Various Diseases
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/gh.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/qw.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/vb.png)
-# Cancer Association analysis using canSARblack:
+
+### Cancer Association Analysis Using canSARblack:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar1.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar2.png)
 
