@@ -19,7 +19,14 @@ The CAPN10 gene, linked to susceptibility to type 2 diabetes mellitus (T2DM), ha
 This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to identify potential functional variants associated with T2DM.
 
 ### General Objectives:
-Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as NCBI dbSNP.
+1. SNP data Retrieval from NCBI and dbSNP
+2. Identification of potentially harmful SNPS
+3. Characterization of functional variants
+4. Understanding association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis.
+5. Comorbidity and Disease Associations
+
+   
+<!--Retrieve SNP data: Collect high-quality SNP data within the CAPN10 gene region from public genomic databases such as NCBI dbSNP.
 
 Functional annotation: Predict the functional significance of identified SNPs using bioinformatics tools such as SIFT and PolyPhen-2 to assess their potential impact on protein structure and function.
 
@@ -27,7 +34,7 @@ Linkage disequilibrium analysis: Investigate the patterns of linkage disequilibr
 
 Association analysis: Assess the association of identified SNPs with T2DM and cancer susceptibility using available genetic datasets and perform statistical analyses to determine their significance.
 
-Functional validation: Validate the functional relevance of prioritized SNPs using in vitro assays or functional genomics approaches to elucidate their role in T2DM pathogenesis and carcinogenesis.
+Functional validation: Validate the functional relevance of prioritized SNPs using in vitro assays or functional genomics approaches to elucidate their role in T2DM pathogenesis and carcinogenesis.-->
 
 
 ### Methodology:
@@ -138,10 +145,17 @@ Association analysis results linking specific SNPs to various disorders.
 
 Functional validation of selected SNPs to elucidate their role in T2DM pathogenesis.-->
 
-### Expected Outcomes:
+<!--### Expected Outcomes:
 1.Identification of non-synonymous SNPs (nsSNPs), exploring the possibility that they may alter the structure and function of proteins.
 
-2.Identification of Asssociated disease with human CAPN10 gene.
+2.Identification of Asssociated disease with human CAPN10 gene.-->
+### Outcomes
+
+1. SNP data Retrieval from NCBI and dbSNP
+2. Identification of potentially harmful SNPS
+3. Characterization of functional variants
+4. Comorbidity and Disease Associations
+<!--5. Understanding association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis.-->
 
 ### Team Members: 
 1. Shivani Pawar
