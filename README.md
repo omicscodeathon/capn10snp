@@ -8,7 +8,7 @@
 3. [General Objectives]("General-Objectives")
 4. [Methodology]("Methodology")
 5. [Results]("Results")
-6. [Outcomes]("Outcomes")
+6. [Conclusions]("Conclusions")
 7. [Team Members]("Team_Members")
 
 
@@ -149,7 +149,7 @@ Functional validation of selected SNPs to elucidate their role in T2DM pathogene
 1.Identification of non-synonymous SNPs (nsSNPs), exploring the possibility that they may alter the structure and function of proteins.
 
 2.Identification of Asssociated disease with human CAPN10 gene.-->
-### Outcomes
+### Conclusions
 
 1. Comprehensive CAPN10 SNP data Retrieval from NCBI and dbSNP
 2. Identification of potentially harmful SNPS
