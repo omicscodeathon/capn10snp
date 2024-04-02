@@ -151,10 +151,10 @@ Functional validation of selected SNPs to elucidate their role in T2DM pathogene
 2.Identification of Asssociated disease with human CAPN10 gene.-->
 ### Outcomes
 
-1. SNP data Retrieval from NCBI and dbSNP
+1. Comprehensive CAPN10 SNP data Retrieval from NCBI and dbSNP
 2. Identification of potentially harmful SNPS
-3. Characterization of functional variants
-4. Comorbidity and Disease Associations
+3. Characterization of functional SNP variants
+4. Comorbidity and Association of CAPN10 gene with some cancers
 <!--5. Understanding association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis.-->
 
 ### Team Members: 
