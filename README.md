@@ -8,7 +8,7 @@
 3. [General Objectives]("General-Objectives")
 4. [Methodology]("Methodology")
 5. [Results]("Results")
-6. [Expected Outcomes]("Expected_Outcomes")
+6. [Outcomes]("Outcomes")
 7. [Team Members]("Team_Members")
 
 
