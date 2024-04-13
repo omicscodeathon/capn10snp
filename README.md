@@ -6,8 +6,8 @@
 1. [Introduction]("Introduction")
 2. [Aim]("Aim")
 3. [General Objectives]("General-Objectives")
-4. [Methodology]("Methodology")
-5. [Workflow]("Workflow")
+4. [Workflow]("Workflow")
+5. [Methodology]("Methodology")
 6. [Results]("Results")
 7. [Conclusions]("Conclusions")
 8. [Team Members]("Team_Members")
@@ -30,6 +30,10 @@ This project aims to conduct a comprehensive SNP analysis of the CAPN10 gene to 
 4. Understanding association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis.
 5. Comorbidity and Disease Associations
 
+### Workflow:
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/Workflow_CAPN10snp.jpg)
+
+Figure 1. Workflow
 
 ### Methodology:
 1. #### Retrieval of Single Nucleotide Polymorphisms (SNPs).
@@ -81,29 +85,18 @@ The canSAR black web based tool (https://cansar.ai/) revealed disease types, sig
 The muTarget tool (https://www.mutarget.com/) was used to identify genes whose mutations impact the expression of the target gene in addition to those whose expression in the query gene is altered.
 
 
-
-
-### Workflow:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/Workflow_CAPN10snp.jpg)
-
-Figure 1. Workflow
-
-
-
 ### Results
 
 A total of 6922 SNPs of the human CAPN10 gene were retrieved from the dbSNP database (dbSNP NCBI: https://www.ncbi.nlm.nih.gov/snp). Out of which 662 were missense (nsSNP), 669 were non-coding transcripts, 349 were synonymous, 4561 were intronic, only 1 initiator codon variant, 3 inframe insertions, 2 inframe indels, and 2 inframe deletions. However, only nsSNPs (missense) of CAPN10 were selected for this study.
 
 
+![image](figures/SIFT_analysis.jpg)                                               ![image](figures/align_GVGD.png)
 
-![image](figures/SIFT_analysis.jpg)
-
-Figure 2. SIFT analysis
+Figure 2. SIFT analysis                                                            Figure 3. Align GVGD analysis
 
 
-![image](figures/align_GVGD.png)
 
-Figure 3. Align GVGD analysis
+
 
 
 ![image](figures/panther_analysis.png)
