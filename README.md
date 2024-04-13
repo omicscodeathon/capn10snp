@@ -166,7 +166,7 @@ gene expression Association analysis:
 
 ### Conclusions
 
-This research was abel to identify numerous nsSNPs with potentially harmful effects, indicating modifications in protein structure and function. Notably, variants V427A, R44T, and A132V demonstrated higher scores, implying their possible detrimental effects. This offers a comprehensive understanding of the functional consequences of genetic variations within CAPN10, shedding light on its involvement in both type 2 diabetes mellitus (T2DM) susceptibility and cancer pathogenesis. These findings shall serve as a valuable data for future population-based studies and personalized medicine initiatives in T2DM and cancer research. It would also bridge the knowledge gap between the association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis
+This research was able to identify numerous nsSNPs with potentially harmful effects, indicating modifications in protein structure and function. Notably, variants V427A, R44T, and A132V demonstrated higher scores, implying their possible detrimental effects. This offers a comprehensive understanding of the functional consequences of genetic variations within CAPN10, shedding light on its involvement in both type 2 diabetes mellitus (T2DM) susceptibility and cancer pathogenesis. These findings shall serve as a valuable data for future population-based studies and personalized medicine initiatives in T2DM and cancer research. It would also bridge the knowledge gap between the association of CAPN10 with type 2 diabetes mellitus (T2DM) pathogenesis
 
 ### Team Members: 
 1. Shivani Pawar
