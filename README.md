@@ -163,7 +163,7 @@ gene expression Association analysis:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/expression_plot_1.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/newplot_(1).png)
 ### T2D Association:Structural Alterations in CAPN10:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)    
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10%2C1.png)
 
 ### Conclusions
 
