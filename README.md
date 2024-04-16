@@ -163,6 +163,18 @@ gene expression Association analysis:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/expression_plot_1.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/newplot_(1).png)
 ### T2D Association:Structural Alterations in CAPN10:
+
+
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.1.png)
+
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.1.png)
+
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.1.png)
+
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.1.png)
+
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.1.png)
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10%2C1.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.png)   ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.1.png)  
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.1.png)
