@@ -162,6 +162,7 @@ gene expression Association analysis:
 ### Expression Plot:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/expression_plot_1.png)
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/newplot_(1).png)
+
 ### T2D Association:Structural Alterations in CAPN10:
 
 
@@ -176,11 +177,17 @@ gene expression Association analysis:
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.1.png)
 
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10%2C1.png)
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.png)   ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.1.png)  
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.1.png)
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.1.png)
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.1.png)
+
 ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.1.png)
+
 ### Conclusions
 
 In conclusion, our comprehensive analysis offers valuable insights into the intricate interplay between CAPN10 gene variations, type 2 diabetes mellitus, and cancer. By elucidating the functional consequences of SNPs and their impact on protein structure and function, our study contributes to a deeper understanding of the molecular mechanisms underpinning these complex diseases. The study successfully identified multiple nsSNPs that could potentially harm protein structure and function. Notably, variants rs768407925, rs776848131, rs146148004, rs114535069, rs138005500, rs184439941, rs3792268, rs148303768, rs1182803771, rs1559425580, rs2953171, rs2975762, rs3749166, rs7607759, rs15011328 showed elevated scores, suggesting they might have detrimental effects, among which 10 amino acid substitutions (V427A, V582A, L474M, L34V, S613N, A477T, E460K, I666V, P200T, T504A) are responsible for structural and functional alterations in CAPN10 protein, suggesting susceptibility to type II Diabetes. This deepens our understanding of how genetic variations within CAPN10 can influence susceptibility to both type 2 diabetes mellitus (T2DM) and cancer development. These findings will be valuable for future population-based research and personalized medicine efforts in T2DM and cancer studies, helping to bridge the knowledge gap regarding CAPN10's role in T2DM pathogenesis.
