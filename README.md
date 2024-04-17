@@ -88,10 +88,13 @@ The muTarget tool (https://www.mutarget.com/) was used to identify genes whose m
 
 A total of 6922 SNPs of the human CAPN10 gene were retrieved from the dbSNP database (dbSNP NCBI: https://www.ncbi.nlm.nih.gov/snp). Out of which 662 were missense (nsSNP), 669 were non-coding transcripts, 349 were synonymous, 4561 were intronic, only 1 initiator codon variant, 3 inframe insertions, 2 inframe indels, and 2 inframe deletions. However, only nsSNPs (missense) of CAPN10 were selected for this study.
 
+![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/SNPs_Piechart.png)
+Figure 2. Types of SNPs Catalogued for CAPN10
+
 
 ![image](figures/SIFT_analysis.jpg)                                               ![image](figures/align_GVGD.png)
 
-Figure 2. SIFT analysis                                                            Figure 3. Align GVGD analysis
+Figure 3. SIFT analysis                                                            Figure 4. Align GVGD analysis
 
 
 
@@ -100,31 +103,32 @@ Figure 2. SIFT analysis                                                         
 
 ![image](figures/panther_analysis.png)
 
-Figure 4. PANTHER analysis
+Figure 5. PANTHER analysis
 
 ![image](figures/free_energy_stability_prediction.png)
 
-Figure 5. Free Energy Stability
+Figure 6. Free Energy Stability
 
 ![image](figures/protein-protein_interaction.png)
 
-Figure 6. Protein-Protein interactions of CAPN10 with 10 proteins based on experimental data and curated databases.
+Figure 7. Protein-Protein interactions of CAPN10 with 10 proteins based on experimental data and curated databases.
 
 
 ![image](figures/HOPE_Mutations.png)
 
-Figure 7. HOPE analysis showing structural changes in the amino acids
+Figure 8. HOPE analysis showing structural changes in the amino acids
 
 ![image](figures/3D_3.png)
 
-Figure 8. The 3D model of the CAPN10 protein using AlphaFold. 
+Figure 9. The 3D model of the CAPN10 protein using AlphaFold. 
 
 ![image](figures/3D_1.png)
 
-Figure 9. Ramachandran plot
+Figure 10. Ramachandran plot
 consurf Analysis:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/ConSurf_1.png)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/ConSurf_3D.png)
+a. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/ConSurf_1.png)
+
+b. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/ConSurf_3D.png)
 
 
 ### Prediction and Assessment of Modeled Structure
@@ -151,42 +155,45 @@ Model 5
 7. Three-dimensional modeling of the mutated protein
 gene expression Association analysis: 
 ### Association of CAPN-10 With Various Genes and their Expression in Various Diseases
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/gh.png)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/qw.png)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/vb.png)
+Figure 11. 
+a. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/gh.png)
+b. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/qw.png)
+c. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/output/vb.png)
 
 ### Cancer Association Analysis Using canSARblack:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar1.png)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar2.png)
+Figure 12.
+a. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar1.png)
+b. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/cansar2.png)
 
 ### Expression Plot:
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/expression_plot_1.png)
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/newplot_(1).png)
+Figure 13.
+a. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/expression_plot_1.png)
+b. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/newplot_(1).png)
 
 ### T2D Association:Structural Alterations in CAPN10:
+Figure 14.
 
+a. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.png)   b. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/1.1.png)
+c. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.png)   d. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/2.1.png)
+e. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.png)    f. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/3.1.png)
+g. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.png)   h. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/4.1.png)
+i. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.png)   j. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/5.1.png)
+k. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)   l. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10%2C1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/6.png)    ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10%2C1.png)
+m. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.png)   n. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.1.png)  
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.png)   ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/7.1.png)  
+o. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.png) p. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/8.1.png)
+q. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.png) r. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/9.1.png)
+s. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.png) t. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.1.png)
 
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/10.1.png)
-
-![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.png) ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.1.png)
+u. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.png) v. ![image](https://github.com/omicscodeathon/capn10snp/blob/main/figures/11.1.png)
 
 ### Conclusions
 
