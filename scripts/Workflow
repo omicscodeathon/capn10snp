@@ -1,0 +1,21 @@
+Retrieval of SNPs - NCBI/dbSNP
+                  |
+Identification and Prediction of effects of deleterious SNPs - SIFT/PolyPhen/AlignGVGD/PANTHER
+                  |
+Structural and Functional Analysis - HOPE
+                  |
+Estimation of conservation profile- ConSurf
+                  |
+Prediction of Protein-Protein Interaction - STRING
+                  |
+Prediction of protein stability change - I-Mutant.
+                  |
+Prediction and Evaluation of 3D structure - I-TASSER, SwissModel, TM-align.
+                  |
+Analysis of co-relation of gene expression and mutation-muTarget.
+                  |
+Identification of cancer Association with NS-SNP-canSAR black.
+                  |
+Analysis of gene expression-GEPIA
+                  |
+Identification of T2DM Association with nsSNPs:OMIM, Uniprot-natural variants, I-muatant.
